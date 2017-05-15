@@ -5,8 +5,7 @@
 2. 2nd item 
 3. 3rd item 
 
+italics
 
+bold 
 
-Test 
-
-This is some test content in the readme file 
