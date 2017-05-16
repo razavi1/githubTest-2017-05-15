@@ -1,9 +1,12 @@
 # githubTest-2017-05-15
 
 ## second level title 
-1. 1st item 
+
+### 3rd level title 
+
+1. 1st ITEM 
 2. 2nd item 
-3. 3rd item 
+3. 3rd ITEM 
 
 italics
 
