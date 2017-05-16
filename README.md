@@ -5,7 +5,7 @@
 ### 3rd level title 
 
 1. 1st ITEM 
-2. 2nd item 
+2. SECOND ITEM  
 3. 3rd ITEM 
 
 italics
